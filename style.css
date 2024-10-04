@@ -1,0 +1,16 @@
+.fundo {
+    background: url(https://img.freepik.com/free-vector/white-elegant-texture-wallpaper_23-2148417584.jpg);
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: rgba(247, 201, 140, 0.429);
+    border-radius: 10px;
+}
+
+.rodape {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0%;
+    height: 30px;
+}
