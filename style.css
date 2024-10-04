@@ -1,15 +1,19 @@
 .fundo {
-    background: url(https://img.freepik.com/free-vector/white-elegant-texture-wallpaper_23-2148417584.jpg);
+    background: url(https://images.unsplash.com/photo-1515549832467-8783363e19b6?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-attachment: fixed;
 }
 
 .container {
-    background-color: rgba(247, 201, 140, 0.429);
-    border-radius: 10px;
+    background-color: rgba(255, 228, 196, 0.763);
+    border-radius: 20px;
 }
 
+.carousel-item {
+    height: 700px;
+    width: 1500px;
+}
 .rodape {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.63);
     text-align: center;
     margin: 0%;
     height: 30px;
